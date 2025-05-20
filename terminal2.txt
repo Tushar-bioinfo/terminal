@@ -1,2 +1,3 @@
-yo what up man , this is the chap 2 of our git lesson
+yo what up man , this is the chap 2 of our git lesson -- my second lesson
 
+have this now 
